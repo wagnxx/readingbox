@@ -1,0 +1,20 @@
+/* @import "//at.alicdn.com/t/font_1332536_z1y99oh5ok.css" ; */
+
+/* @font-face {
+  font-family: "iconfont";
+  src: url("iconfont.eot");
+  src: url("iconfont.eot?#iefix") format("embedded-opentype"),
+    url("iconfont.woff") format("woff"), 
+    url("iconfont.ttf") format("truetype"),
+    url("iconfont.svg#iconfont") format("svg");
+} */
+
+
+.app {
+  width: 100%;
+  min-width: 320px;
+  max-width: 540px;
+  font-size: 14px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
