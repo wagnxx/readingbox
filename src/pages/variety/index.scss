@@ -1,0 +1,24 @@
+.variety {
+  display: flex;
+  height: 100%;
+  &__sider {
+    width: 54px;
+    box-sizing: border-box;
+    background: #dddddd73;
+
+    &__nav {
+      &__item {
+        height: 50px;
+        line-height: 50px;
+        text-align: center;
+        border-left: 4px solid transparent;
+
+        &-act {
+          border-color: #bab824;
+          color: #bab824;
+          background: #fff;
+        }
+      }
+    }
+  }
+}
